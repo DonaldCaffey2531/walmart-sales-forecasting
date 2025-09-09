@@ -1,4 +1,5 @@
 📊 Walmart Sales Forecasting with AI
+
 🔹 Project Overview
 
 This project builds an AI-powered sales forecasting dashboard using the Walmart Store Sales dataset (Kaggle).
