@@ -47,7 +47,7 @@ Holidays, Fuel Price, CPI, Unemployment
 
 Clone the repository:
 
-git clone https://github.com/your-username/walmart-sales-forecasting.git
+git clone [https://github.com/your-username/walmart-sales-forecasting.git](https://github.com/DonaldCaffey2531/walmart-sales-forecasting)
 cd walmart-sales-forecasting
 
 
